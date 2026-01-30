@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+
+# Models (large files)
+models/*.h5
+models/*.keras
+models/*.pkl
+
+# Data
+*.csv
+
+# MediaPipe
+*.task
+
+# OS
+.DS_Store
